@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1 ,
+        "title" : "Product 1" ,
+        "imageUrl" : "/images/p1.jpg" ,
+        "desc" : "lorem" ,
+        "price" : 100 ,
+        "sizes" : ["40", "32" , "50" ] 
+    },
+    {
+        "id" : 1 ,
+        "title" : "Product 1" ,
+        "imageUrl" : "/images/p2.jpg" ,
+        "desc" : "lorem" ,
+        "price" : 100 ,
+        "sizes" : ["40", "32" , "50" ] 
+    },
+    {
+        "id" : 1 ,
+        "title" : "Product 1" ,
+        "imageUrl" : "/images/p3.jpg" ,
+        "desc" : "lorem" ,
+        "price" : 100 ,
+        "sizes" : ["40", "32" , "50" ] 
+    }
+]
