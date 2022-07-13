@@ -19,3 +19,18 @@
     background-color: #72dbf2;
   }
 
+
+
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.products-side{
+    width: 68%;
+}
+
+.filter-side{
+    width: 30%;
+}
